@@ -27,7 +27,7 @@ A full-stack application leveraging the OpenRouter API to analyze and suggest fi
 
 * **Key Highlights:** Implemented API Key management using Docker environment variables. Utilized a lightweight database for history.
 * **Technologies:** Python, Django, OpenRouter API Integration, Docker.
-* [**Link to Repository:**]([https://github.com/yourusername/code-bug-fixer](https://github.com/hamza-coding-usthb/Bugfixer.git))
+* [**Link to Repository:**](https://github.com/hamza-coding-usthb/Bugfixer.git)
 
 ### 2. Multi-User Chat App (The Real-Time Project)
 
@@ -35,7 +35,7 @@ A real-time chat application demonstrating concurrent, multi-user data handling.
 
 * **Key Highlights:** Used Firebase Firestore for real-time data synchronization. Designed the architecture for public and private data access.
 * **Technologies:** React, Firebase, Firestore, Tailwind CSS.
-* [**Link to Repository:**]([https://github.com/yourusername/real-time-chat-app](https://github.com/hamza-coding-usthb/chatGPTclone.git))
+* [**Link to Repository:**](https://github.com/hamza-coding-usthb/chatGPTclone.git)
 
 ---
 
