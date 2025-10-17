@@ -14,6 +14,7 @@ I focus on building robust backend systems that integrate AI solutions with Djan
 | **Frontend** | JavaScript (ES6+), React, HTML5, CSS3, **Tailwind CSS**, Bootstrap |
 | **Databases** | PostgreSQL, MySQL, SQLite, Firebase Firestore |
 | **DevOps/Tools** | **Git, GitHub, Docker**, Firebase Hosting, Linux |
+|**ML/Data Science**|Pytorch, Panda, Numpy, Tensorflow, LongChain|
 
 ---
 
