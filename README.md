@@ -53,10 +53,8 @@ A real-time chat application demonstrating concurrent, multi-user data handling.
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [Your LinkedIn Profile URL] |
-| **Portfolio** | [Your Personal Website/Portfolio URL] |
+| **LinkedIn** | www.linkedin.com/in/hamza-taourirt-199a472b2 |
+| **ML Portfolio** | https://www.kaggle.com/hamzataourirt |
 
 <br>
-<p align="center">
-    Made with ❤️ and Markdown
-</p>
+
