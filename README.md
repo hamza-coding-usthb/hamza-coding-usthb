@@ -38,6 +38,15 @@ A real-time chat application demonstrating concurrent, multi-user data handling.
 * **Technologies:** React, Firebase, Firestore, Tailwind CSS.
 * [**Link to Repository:**](https://github.com/hamza-coding-usthb/chatGPTclone.git)
 
+  
+### 3. NeuroDet (AI Desktop App for Neurodegenerative disease detection)
+
+A desktop application for the management of doctors, patients and diagnosis in the context of nerodegenerative diseases.
+
+* **Key Highlights:** Used PyQT 5 for the UI, MySQL for the database. Designed the Vizualizer of medical imagery using VTK, NiBabel, Matplotlib.
+* **Technologies:** PyQT, NiBabel, Matplotlib, MySQL, Keras, Tensorflow.
+* [**Link to Repository:**](https://github.com/hamza-coding-usthb/neurodet.git)
+
 ---
 
 ## 📈 My GitHub Stats
