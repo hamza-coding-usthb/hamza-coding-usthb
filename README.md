@@ -62,7 +62,7 @@ A desktop application for the management of doctors, patients and diagnosis in t
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | www.linkedin.com/in/hamza-taourirt-199a472b2 |
+| **LinkedIn** | www.linkedin.com/in/hamza-taourirt |
 | **Personal Website** | [www.hamzataourirt.netlify.app ](https://hamzataourirt.netlify.app)|
 | **ML Portfolio** | www.kaggle.com/hamzataourirt |
 
