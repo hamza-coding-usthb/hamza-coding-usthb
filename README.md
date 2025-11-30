@@ -8,15 +8,41 @@ I focus on building robust backend systems that integrate AI solutions with Djan
 
 ## 🛠️ Skills and Toolkit
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Backend** | Python, Django, REST Framework, Node.js, Laravel |
-| **Frontend** | JavaScript (ES6+), React, HTML5, CSS3, **Tailwind CSS**, Bootstrap |
-| **Databases** | PostgreSQL, MySQL, SQLite, Firebase Firestore |
-| **DevOps/Tools** | **Git, GitHub, Docker**, Firebase Hosting, Linux |
-|**ML/Data Science**|Pytorch, Panda, Numpy, Tensorflow, LongChain|
+## 💻 My Tech Stack
 
----
+### ⚙️ Backend & Frameworks
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/DRF-A51F34?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+### 🎨 Frontend & UI/UX
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### 💾 Databases & Data Storage
+![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### ☁️ DevOps & Tools
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### 🧠 ML / Data Science
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/LangChain-181818?style=flat&logo=chainlink&logoColor=white)
 
 ## ✨ Featured Projects
 
