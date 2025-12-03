@@ -78,8 +78,8 @@ A desktop application for the management of doctors, patients and diagnosis in t
 ## 📈 My GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/hamza-coding-usthb?theme=vue-dark" alt="Your GitHub Summary Stats" style="margin-bottom: 20px;" />
-<img src="https://github-profile-summary-cards.vercel.app/api/most-used-langs/hamza-coding-usthb?theme=vue-dark&layout=compact" alt="Top Languages" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamza-coding-usthb&theme=nord_dark" alt="Your GitHub Summary Stats" style="margin-bottom: 20px;" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamza-coding-usthb&theme=nord_dark&exclude={exclude}" alt="Top Languages" />
 </p>
 
 ---
