@@ -84,7 +84,7 @@ A desktop application for the management of doctors, patients and diagnosis in t
 
 ## 📈 Number of Vesitors
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{hamza-coding-usthb}/count.svg)
 
 
 
