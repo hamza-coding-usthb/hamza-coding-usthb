@@ -82,12 +82,6 @@ A desktop application for the management of doctors, patients and diagnosis in t
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamza-coding-usthb&theme=nord_dark&exclude={exclude}" alt="Top Languages" />
 </div>
 
-## 📈 Number of Vesitors
-
-![Visitor Count](https://profile-counter.glitch.me/{hamza-coding-usthb}/count.svg)
-
-
-
 ### 💬 Connect with me!
 
 | Platform | Link |
