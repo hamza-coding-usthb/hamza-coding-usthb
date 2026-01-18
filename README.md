@@ -82,7 +82,9 @@ A desktop application for the management of doctors, patients and diagnosis in t
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamza-coding-usthb&theme=nord_dark&exclude={exclude}" alt="Top Languages" />
 </div>
 
--<img src="https://count.getloli.com/get/@hamza-coding-usthb?theme=moebooru" alt="Moe Counter" />
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fhamza-coding-usthb%2Fvisits&color=81a1c1" alt="Profile Views">
+</p>
 ### 💬 Connect with me!
 
 | Platform | Link |
