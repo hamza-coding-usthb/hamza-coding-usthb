@@ -85,8 +85,7 @@ A desktop application for the management of doctors, patients and diagnosis in t
 ## 📈 Number of Vesitors
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@hamza-coding-usthb-stats?theme=rule_34" alt="Visitor Counter" style="display:none;" />
-  <img src="https://img.shields.io/badge/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fhamza-coding-usthb%2Fhamza-coding-usthb.json&color=81a1c1&label=Profile%20Views&style=flat-square" alt="Views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhamza-coding-usthb&count_bg=%2381a1c1&title_bg=%232E3440&icon=github.svg&icon_color=%23E5E9F0&title=Profile+Views&edge_flat=true" alt="Views"/>
 </p>
 
 
