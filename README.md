@@ -83,7 +83,7 @@ A desktop application for the management of doctors, patients and diagnosis in t
 </div>
 
 ---
-![Visitors](https://api.visitorbadge.io/api/visitors?id=hamza-coding-usthb&label=Profile%20Views&countColor=%23263238&style=flat)
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhamza-coding-usthb&count_bg=%232E3440&title_bg=%234C566A&icon=github.svg&icon_color=%23E5E9F0&title=Profile+Views&edge_flat=false)
 ### 💬 Connect with me!
 
 | Platform | Link |
