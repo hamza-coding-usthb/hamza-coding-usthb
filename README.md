@@ -82,6 +82,8 @@ A desktop application for the management of doctors, patients and diagnosis in t
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamza-coding-usthb&theme=nord_dark&exclude={exclude}" alt="Top Languages" />
 </div>
 
+![](https://komarev.com/ghpvc/?username=hamza-coding-usthb&color=81a1c1&style=flat-square)
+
 ### 💬 Connect with me!
 
 | Platform | Link |
