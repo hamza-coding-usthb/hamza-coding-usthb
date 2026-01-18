@@ -83,7 +83,7 @@ A desktop application for the management of doctors, patients and diagnosis in t
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fhamza-coding-usthb%2Fvisits&color=81a1c1" alt="Profile Views">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhamza-coding-usthb&count_bg=%2381a1c1&title_bg=%232e3440&icon=&link-os=android&title=Profile+Views&edge_flat=true" alt="Views"/>
 </p>
 
 
